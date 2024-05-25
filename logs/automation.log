@@ -1,0 +1,24 @@
+20:11:36.273 [main] %-51evel testCases.TC_002_LoginTest - Capturing application debug logs....
+20:11:36.374 [main] %-51evel testCases.TC_002_LoginTest - Clicked on MyAccount link
+20:11:36.461 [main] %-51evel testCases.TC_002_LoginTest - Clicked on Login Page
+20:11:56.486 [main] %-51evel testCases.TC_002_LoginTest - Test failed !!!!!
+17:56:41.136 [main] %-51evel testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+17:56:41.139 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Application logs started....
+17:56:41.325 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+17:56:41.810 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:56:57.847 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Test case is failed
+17:57:05.323 [main] %-51evel testCases.TC_002_LoginTest - ***** Starting Login Test*******
+17:57:05.323 [main] %-51evel testCases.TC_002_LoginTest - Capturing application debug logs....
+17:57:05.735 [main] %-51evel testCases.TC_002_LoginTest - Clicked on MyAccount link
+17:57:10.818 [main] %-51evel testCases.TC_002_LoginTest - Test failed !!!!!
+18:23:51.286 [main] %-51evel testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+18:23:51.291 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Application logs started....
+18:23:51.429 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+18:23:51.888 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+18:24:08.193 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Test case is failed
+18:24:15.846 [main] %-51evel testCases.TC_002_LoginTest - ***** Starting Login Test*******
+18:24:15.846 [main] %-51evel testCases.TC_002_LoginTest - Capturing application debug logs....
+18:24:15.955 [main] %-51evel testCases.TC_002_LoginTest - Clicked on MyAccount link
+18:24:16.411 [main] %-51evel testCases.TC_002_LoginTest - Clicked on Login Page
+18:24:31.808 [main] %-51evel testCases.TC_002_LoginTest - Entered correct login Credentials
+18:24:31.808 [main] %-51evel testCases.TC_002_LoginTest - ***Ended Login Test*******

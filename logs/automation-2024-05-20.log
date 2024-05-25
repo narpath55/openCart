@@ -1,0 +1,48 @@
+23:14:34.988 [main] %-51evel org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:14:34.991 [main] %-51evel org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:14:34.993 [main] %-51evel org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:14:35.015 [main] %-51evel org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:14:35.016 [main] %-51evel org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:14:35.017 [main] %-51evel org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:14:35.042 [main] %-51evel org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:14:35.042 [main] %-51evel org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:14:35.043 [main] %-51evel org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:31:39.919 [main] %-51evel testCases.TC_002_LoginTest - ***** Starting Login Test*******
+23:31:39.922 [main] %-51evel testCases.TC_002_LoginTest - Capturing application debug logs....
+23:31:40.080 [main] %-51evel testCases.TC_002_LoginTest - Clicked on MyAccount link
+23:31:40.640 [main] %-51evel testCases.TC_002_LoginTest - Clicked on Login Page
+23:31:56.034 [main] %-51evel testCases.TC_002_LoginTest - Entered correct login Credentials
+23:31:56.034 [main] %-51evel testCases.TC_002_LoginTest - ***Ended Login Test*******
+19:40:20.864 [main] %-51evel testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+19:40:20.870 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Application logs started....
+19:40:21.038 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+19:40:21.479 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+19:40:37.840 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Test case is failed
+19:40:45.354 [main] %-51evel testCases.TC_002_LoginTest - ***** Starting Login Test*******
+19:40:45.354 [main] %-51evel testCases.TC_002_LoginTest - Capturing application debug logs....
+19:40:45.452 [main] %-51evel testCases.TC_002_LoginTest - Clicked on MyAccount link
+19:40:46.060 [main] %-51evel testCases.TC_002_LoginTest - Clicked on Login Page
+19:41:01.511 [main] %-51evel testCases.TC_002_LoginTest - Entered correct login Credentials
+19:41:01.511 [main] %-51evel testCases.TC_002_LoginTest - ***Ended Login Test*******
+19:44:39.875 [main] %-51evel testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+19:44:39.880 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Application logs started....
+19:44:40.059 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+19:44:40.615 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+19:44:52.376 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Test case is failed
+19:44:59.908 [main] %-51evel testCases.TC_002_LoginTest - ***** Starting Login Test*******
+19:44:59.908 [main] %-51evel testCases.TC_002_LoginTest - Capturing application debug logs....
+19:45:00.045 [main] %-51evel testCases.TC_002_LoginTest - Clicked on MyAccount link
+19:45:00.509 [main] %-51evel testCases.TC_002_LoginTest - Clicked on Login Page
+19:45:15.955 [main] %-51evel testCases.TC_002_LoginTest - Entered correct login Credentials
+19:45:15.955 [main] %-51evel testCases.TC_002_LoginTest - ***Ended Login Test*******
+19:54:22.720 [main] %-51evel testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+19:54:22.722 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Application logs started....
+19:54:22.873 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+19:54:23.255 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+19:54:39.332 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Test case is failed
+20:11:11.827 [main] %-51evel testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+20:11:11.831 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Application logs started....
+20:11:12.007 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+20:11:13.699 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+20:11:28.684 [main] %-51evel testCases.TC_001_AccountRegistrationTest - Test case is failed
+20:11:36.273 [main] %-51evel testCases.TC_002_LoginTest - ***** Starting Login Test*******
